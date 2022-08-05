@@ -1,0 +1,25 @@
+
+
+@media (min-width: 500px) {
+  .section-about-enem > div {
+    width: 70%;
+  }
+  .section-matter {
+    width: 100%;
+  }
+  .section-matter .div-matter > img {
+    width: 90%;
+  }
+  .section-matter .div-matter > .div-matter-list {
+    width: 45%;
+  }
+}
+
+@media (min-width: 800px) {
+  .section-about-enem > div {
+    width: 50%;
+  }
+  .section-matter .div-matter > img {
+    width: 60%;
+  }
+}
